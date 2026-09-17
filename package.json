@@ -1,0 +1,9 @@
+{
+  "name": "azazothx-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.4.0"
+  }
+}
